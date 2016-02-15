@@ -109,7 +109,7 @@
   <mirrors>
     <mirror>
       <id>s2i-mirror</id>
-      <url>http://archiva:9091/repository/xpaas/</url>
+      <url>http://archiva:8080/repository/xpaas/</url>
       <mirrorOf>external:*</mirrorOf>
     </mirror>
   </mirrors>
