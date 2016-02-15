@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.fabric8:kubernetes-api:2.2.0.redhat-079">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-api/2.2.0.redhat-079/kubernetes-api-2.2.0.redhat-079.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-api/2.2.0.redhat-079/kubernetes-api-2.2.0.redhat-079-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-api/2.2.0.redhat-079/kubernetes-api-2.2.0.redhat-079-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

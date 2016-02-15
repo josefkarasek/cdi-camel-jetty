@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.fabric8:kubernetes-client:test-jar:tests:1.3.26.redhat-079">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-client/1.3.26.redhat-079/kubernetes-client-1.3.26.redhat-079-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-client/1.3.26.redhat-079/kubernetes-client-1.3.26.redhat-079-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-client/1.3.26.redhat-079/kubernetes-client-1.3.26.redhat-079-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
